@@ -1,1 +1,2 @@
 # TechWize---Digital-Literacy-and-Cybersecurity
+Welcome to TechWize, an educational website designed to help users understand the essentials of digital literacy and cybersecurity. The website serves as an accessible learning space that teaches visitors how to navigate the online world responsibly, safely, and confidently. Its layout, design, and content are all focused on making digital education simple and engaging for everyone.
